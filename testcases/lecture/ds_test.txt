@@ -1,0 +1,22 @@
+Topic: DS - Trees
+
+defn?? of tree → non-linear ds??.  
+
+Binary tree - node has ≤2 child. leaf, internal nodes.  
+Balanced tree => height log(n), imp ** for search efficiency.  
+
+AVL tree? rotation to keep bal??  
+
+BST - search O(log n) if bal. else O(n).  
+
+Heap vs BST? diff usage. Heap good for priority queue.  
+
+Applications: compiler parsing, DB indexing.  
+
+Prof said **red-black tree** used in real world systems like Linux.  
+
+Exam Q likely: implement insertion in AVL.  
+
+Note: ask TA about diff b/w AVL & RB-tree.  
+
+HW due next week Mon → Q4 is about rotations.

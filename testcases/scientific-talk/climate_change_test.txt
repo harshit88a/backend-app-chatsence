@@ -1,0 +1,14 @@
+Topic: Climate Models
+
+Simulation → use GCM?? global climate models.  
+Important** feedback loops (ice melt → albedo effect).  
+CO2 ppm rising → 420+ now??  
+Predict sea level rise 1m by 2100.  
+Uncertainty sources: cloud formation, aerosols.  
+Speaker said coupling ocean-atmo models critical.  
+Data assimilation with sat data.  
+Reminder: read IPCC AR6 chap 3.  
+Next collab call Wed 5pm.  
+Action item: check HPC cluster access.  
+Ask: how models validated vs obs data??  
+Note: check paper by Hansen 1988.  

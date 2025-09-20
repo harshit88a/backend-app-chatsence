@@ -1,0 +1,17 @@
+Topic: Business Plan - Local Food Delivery
+
+Idea: hyperlocal delivery for small restaurants, focus on suburbs.  
+Problem: UberEats + DoorDash too $$ for small biz.  
+Solution: low commission (8% vs 20%).  
+Revenue?? maybe ads + subscription for restaurants??.  
+Important** need delivery partner contracts ASAP.  
+Reminder: check local regulations on delivery workers.  
+Launch area: Buffalo → student market good.  
+Pilot: 20 restaurants → free 1st month onboarding.  
+Marketing: flyers, student orgs collab.  
+Budget: $50k initial → dev app + marketing.  
+Action items:  
+- Priya → make competitor analysis.  
+- Me → draft ops workflow.  
+- Raj → explore Stripe vs Square for payments.  
+Next call: Wed 9pm.  

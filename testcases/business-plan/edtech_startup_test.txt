@@ -1,0 +1,15 @@
+Topic: Business Plan - EdTech AI Notes App
+
+Idea: AI app → auto summarize lectures, create clean notes.  
+Target market?? → univ students, profs, corp training.  
+Revenue model → freemium, $5.99/mo premium.  
+Important** focus on accuracy + privacy.  
+Competitors: Notion, Otter, Evernote → diff angle: AI-first.  
+Funding: seed round needed → $500k.  
+Marketing: social media + student ambassadors.  
+Reminder: check if need FERPA compliance?? for US students.  
+Roadmap: MVP in 3 mo → launch campus pilot Sept.  
+Team: devs (me, Rahul), design (Anu), marketing (TBD).  
+Action: Tom → draft pitch deck by next Tue.  
+Risk: high comp. Need USP clear.  
+Next meet Fri 6pm to review deck.  

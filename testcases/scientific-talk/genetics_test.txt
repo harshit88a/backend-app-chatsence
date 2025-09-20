@@ -1,0 +1,13 @@
+Topic: CRISPR Gene Editing
+
+CRISPR = clustered repeats?? bacterial defense system.  
+Cas9 enzyme cuts DNA. Guide RNA directs cut.  
+Important**** discovery 2012. Nobel prize 2020.  
+Uses → gene therapy, crop improv, disease resistance.  
+Concerns: off-target effects, ethics.  
+Speaker showed ex: correcting sickle cell mutation.  
+Reminder: look up base editing vs prime editing.  
+Regulation → not yet uniform worldwide.  
+Q: Germline editing allowed anywhere??  
+Next talk: Mon 3pm.  
+Action item: review Nature 2021 paper.  

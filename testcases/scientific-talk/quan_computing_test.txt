@@ -1,0 +1,13 @@
+Topic: Quantum Comp Basics
+
+Qubit defn?? like bit but can be 0 & 1 at same time → superposition.  
+Entanglement → linked states, Einstein called spooky action??  
+Important** concept in QC algos.  
+Grover’s algo for search → sqrt(N) time.  
+Shor’s algo → factor numbers fast, risk for encryption.  
+Error correction = big challenge. Decoherence = loss of info.  
+Reminder: check slides for circuit diagram.  
+Hardware: superconducting qubits vs trapped ions.  
+Research labs → Google, IBM, IonQ.  
+Next seminar: Fri 4pm.  
+Note: ask speaker about scalability beyond 100 qubits.  

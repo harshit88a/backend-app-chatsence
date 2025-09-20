@@ -1,0 +1,19 @@
+Topic: Intro to Quantum Mechanics
+
+Wave-particle duality?? 
+The core idea. Light is both. 
+
+De Broglie wavelength formula... something about momentum. 
+
+Schrodinger's Cat thought experiment - cat is both alive and dead until observed. 
+The observer effect is key ****. 
+
+Quantum superposition and entanglement. E
+ntanglement is "spooky action at a distance" - Einstein quote. 
+Heisenberg Uncertainty Principle - can't know position AND momentum at same time. ** Very important for exam. 
+
+Tunnelling effect - particles can go through barriers they shouldn't be able to. 
+Applications: quantum computing, transistors. 
+
+Need to re-read chapter 4 on wave functions. 
+What is a qubit ??

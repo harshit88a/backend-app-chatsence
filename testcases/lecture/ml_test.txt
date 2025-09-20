@@ -1,0 +1,13 @@
+Topic: ML - CNNs
+
+Conv layer → filters slide over image, extract feat.  
+Pooling → reduce dim, avoid overfit.  
+ReLU activation vs Sigmoid?? why ReLU preferred? → faster, no sat.  
+Prof showed AlexNet arch. Very imp**.  
+Dropout used to prevent overfit.  
+Q: Why need flatten before FC layers??  
+Backprop: chain rule on conv filters, need to check again.  
+BatchNorm → normalizes activations across batch.  
+Exam: derive conv operation (matrix mult??).  
+HW assign: train simple CNN on MNIST, due Fri.  
+Ask: diff b/w CNN vs RNN in context of seq data??  

@@ -1,0 +1,15 @@
+Topic: New App Idea
+
+Chat about building study notes app → AI summarize lectures?? like auto notes.  
+Need simple UI, minimal clutter.  
+Important** data privacy concern.  
+Sam said maybe integrate voice rec too.  
+Not sure about monetization?? ads or subscription??  
+Reminder: check if domain name available.  
+Could demo to friends in uni.  
+Next casual meet Fri evening in library.  
+Todo:  
+- Mike → design sketch.  
+- Me → check free APIs.  
+- Sara → look up existing apps.  
+Also need name ideas: NoteMate? Scribbly??  

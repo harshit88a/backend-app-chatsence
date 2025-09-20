@@ -1,0 +1,12 @@
+Topic: OS - Virtual Memory
+
+Concept: prog can be bigger than RAM?? how? VM uses disk.  
+Pages + frames → mapping with page table.  
+TLB = cache for page table entries. Important** exam.  
+Page fault = when page not in mem. OS brings from disk. slow!!  
+Thrashing?? occurs when too many pf, sys spends more time swapping than exec.  
+Demand paging vs pre-paging?? (not clear).  
+Prof stressed working set model (****).  
+Ex: 4 frames, 3 progs, see how many page faults (FIFO vs LRU).  
+Need to revise Belady’s anomaly??  
+Reminder: do practice probs from book chap 8.
